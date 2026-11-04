@@ -1,0 +1,11 @@
+{
+  "name": "PasarKita",
+  "short_name": "PasarKita",
+  "description": "Layanan pasar rakyat untuk pedagang, pengunjung, petugas, dan UPT Pasar.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f3",
+  "theme_color": "#0e5e4e",
+  "lang": "id",
+  "icons": [{ "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }]
+}
